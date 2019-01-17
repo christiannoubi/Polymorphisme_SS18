@@ -59,5 +59,8 @@ int main() {
 }
 /*
  * Log::Test
- * ab->f(: A::f
+ * ab->f(): A::f
+ * ab->g(): B:g
+ * bc->f(): B:f
+ * bc->g(): C:g
  */
